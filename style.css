@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to right, #696969, #352A3B);
+    background-size: cover;
+    font-family: AlundraText, sans-serif;
+    src: url (19151.ttf);  
+   }
+   * { box-sizing: border-box; }
+ 
+.block1{
+	float: left;
+	margin-top: 5rem;
+	margin-left: 5rem;
+}
+.block2{
+	float: left;
+	margin-top: 5rem;
+	margin-left: 5rem;
+}
+.btn{
+	color: blue;
+	margin-left: 25px;
+	height: 40px;
+	width: 200px;
+}
+
+.col-7{
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+.card-text{
+	font-family: 'Raleway', sans-serif;
+	text-align: justify;
+}
+.card-body{
+	height: 200px;
+}
+.merc{
+	color: #FFDEAD;
+	text-shadow: 0 0 30px #FF4500;
+}
+.card{
+	box-shadow: 0 0 20px #FAEBD7;
+}
