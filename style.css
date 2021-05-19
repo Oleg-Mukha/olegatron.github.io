@@ -39,5 +39,9 @@ body{
 	text-shadow: 0 0 30px #FF4500;
 }
 .card{
-	box-shadow: 0 0 20px #FAEBD7;
+	transition-duration: 0.8s;
+}
+.card:hover{
+	transform: scale(1.05);
+	box-shadow: 0 0 30px #FAEBD7;
 }
